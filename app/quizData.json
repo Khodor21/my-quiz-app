@@ -1,0 +1,46 @@
+{
+  "1": [
+    {
+      "question": "ما اسم والد الرسول صلى الله عليه وسلّم",
+      "options": ["عبدالله", "عبدالمطلب", "عبدمناف", "قصي"],
+      "answer": "عبدالله"
+    },
+    {
+      "question": "What is 2 + 2?",
+      "options": ["3", "4", "5", "6"],
+      "answer": "4"
+    },
+    {
+      "question": "Which planet is closest to the sun?",
+      "options": ["Venus", "Mars", "Mercury", "Earth"],
+      "answer": "Mercury"
+    }
+  ],
+  "2": [
+    {
+      "question": "What is the capital of France?",
+      "options": ["London", "Berlin", "Paris", "Madrid"],
+      "answer": "Paris"
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "options": [
+        "Leonardo da Vinci",
+        "Pablo Picasso",
+        "Vincent van Gogh",
+        "Michelangelo"
+      ],
+      "answer": "Leonardo da Vinci"
+    },
+    {
+      "question": "Which is the largest ocean on Earth?",
+      "options": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Arctic Ocean",
+        "Pacific Ocean"
+      ],
+      "answer": "Pacific Ocean"
+    }
+  ]
+}
